@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Siti Zulaikha - Product Owner"
     email: "{cipher}1c0fa7b8e3e6f3c3a84fc08f3bda303f8c88f3f9318a2e1c375b2cdc75b3428ff94f56ff994c907700cdc3edf88605f8"
